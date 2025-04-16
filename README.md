@@ -44,7 +44,4 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <h3 align="left">Tools:</h3>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
-<a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/BurpSuite_Comunity_Edition.svg" alt="burpsuite" width="40" height="40"/> </a>  
-<a href="https://nmap.org/" target="_blank" rel="noreferrer"> <img src="https://nmap.org/images/sitelogo-nmap.svg" alt="nmap" width="40" height="40"/> </a>  
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikrams-official&show_icons=true&locale=en" alt="vikrams-official" /></p>
